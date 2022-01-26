@@ -127,7 +127,7 @@ export default class LoginScreen extends Component {
               source={require("../assets/logo.png")}
               style={styles.appIcon}
             ></Image>
-            <Text style={styles.appTitleText}>{`Storytelling\nApp`}</Text>
+            <Text style={styles.appTitleText}>{`App Narração de\nHistórias`}</Text>
           </View>
         </View>
       );
